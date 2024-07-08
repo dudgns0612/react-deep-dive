@@ -13,3 +13,7 @@
 ### docker ps 실행목록
 
 ![alt text](image-4.png)
+
+### docker exec
+
+![alt text](image-5.png)
